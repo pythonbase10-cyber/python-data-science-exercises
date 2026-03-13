@@ -1,5 +1,7 @@
-# python-data-science-exercises
-"Ejercicios y proyectos prácticos de análisis de datos con Python y Pandas."
+# 🇪🇸 Análisis de Datos con Python
+Ejercicios y proyectos prácticos de análisis de datos con Python y Pandas.
 
-# python-data-science-exercicios
-"Exercicios e projetos práticos de análises de dados com Python e Pandas."
+---
+
+# 🇧🇷 Análise de Dados com Python
+Exercícios e projetos práticos de análises de dados com Python e Pandas.

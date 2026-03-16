@@ -3,7 +3,12 @@
 Este repositorio contiene mi progreso y ejercicios prácticos en el análisis de datos.
 
 ---
+## 🏠 03. Análisis de Precios de Viviendas
+(./03_houses_data_analiys.ipynb)
+**ES:** Análisis de un dataset inmobiliario utilizando filtros avanzados y manipulación de datos con `.loc`. Práctica de segmentación de mercado basada en múltiples criterios (habitaciones, tipo y precio).
+**BR:** Análise de um dataset imobiliário utilizando filtros avançados e manipulação de dados com `.loc`. Prática de segmentação de mercado baseada em múltiplos critérios (quartos, tipo e preço).
 
+---
 ## ⚽ 02. Análisis de Jugadores FIFA (EDA)  
 [02. Análisis de Jugadores FIFA (EDA)](./02_fifa_data_analysis.ipynb)  
 
